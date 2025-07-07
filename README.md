@@ -1,4 +1,4 @@
-# ValleyGPT
+# fybot
 An Discord AI Chatbot based on Google's models.
 
 Closed Source.
