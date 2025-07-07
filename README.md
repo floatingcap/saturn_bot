@@ -2,11 +2,11 @@
 An Discord AI Chatbot based on Google's models.
 
 Closed Source.
-Change Logs: https://github.com/ValleyXP/_ValleyGPT/blob/main/update.md
+Change Logs: Error
 
 This is a repository for Issues on the Issues tab.
 
-`ValleyGPT by ValleyXP
+fybot by fylvo
 Built with help from ChatGPT.
 Uses Gemini & GPT models.
 
