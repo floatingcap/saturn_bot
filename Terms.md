@@ -1,6 +1,6 @@
 # ⚖️ fybot Terms of Service
 
-**Effective Date:** [Insert Date]
+**Effective Date:** July 9, 2025
 
 By using fybot, you agree to these terms. If you don’t agree, don’t use it — simple as that.
 
