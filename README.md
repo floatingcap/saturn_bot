@@ -1,9 +1,10 @@
 # 🤖 fybot
 
-A Discord AI chatbot powered by Google’s Gemini + OpenAI’s GPT models.
+A Discord AI chatbot powered by Google's Gemini and OpenAI's GPT, with image generation by StabilityAI.
 
 ⚠️ **Alpha stage** – bugs may occur  
 🔒 [Privacy Policy](./privacypolicy.md) • [Terms of Service](./Terms.md)  
+📡 [Status Page](https://stats.uptimerobot.com/k5PHbjW68O)  
 💬 [Open an Issue](https://github.com/fylvo/fybot/issues)
 
 ---
@@ -11,21 +12,22 @@ A Discord AI chatbot powered by Google’s Gemini + OpenAI’s GPT models.
 ## 📝 About
 
 - Built by **fylvo** with help from ChatGPT  
-- Uses **Gemini** (by Google) and **GPT** (by OpenAI) for generation  
-- **Closed source** (for now)  
-- Status page: https://stats.uptimerobot.com/k5PHbjW68O
+- Text generation powered by **Gemini 1.5 Flash** (Google)  
+  with fallback to **GPT-3.5 Turbo** (OpenAI)  
+- Image generation via **Stable Diffusion XL Base 1.0**  
+  from **StabilityAI**, using Hugging Face’s API  
+- **Closed source** (for now)
 
 ---
 
 ## 🚧 This Repo
 
-This repo is just for:
+This repo is for:
 - Reporting bugs
 - Suggesting features
-- Tracking updates (eventually)
-- Terms of Service, Privacy Policy
+- Status tracking (see [Status Page](https://stats.uptimerobot.com/k5PHbjW68O))
 
-> Actual bot code isn’t here. Don’t even try snooping 👀
+> Bot source code is private. This isn’t the mainframe. 😉
 
 ---
 
@@ -34,25 +36,26 @@ This repo is just for:
 fybot is **not affiliated** with:
 - Google
 - OpenAI
+- StabilityAI
+- Hugging Face
 - Discord
 
-We just use their public APIs with love 🫶
+We just use their public APIs & models.
 
 ---
 
 ## 🧪 Alpha Notice
 
-This bot is still in early development. Things may:
-- Break
-- Explode
-- Say weird stuff  
-If you find a bug, post it in the [Issues Tab](https://github.com/fylvo/fybot/issues).
+This bot is still in early development. Expect:
+- Bugs
+- Broken commands
+- Weird AI replies
+
+Report anything strange in the [Issues Tab](https://github.com/fylvo/fybot/issues).
 
 ---
 
 ## 🙌 Credits
 
 - Developed by [fylvo](https://github.com/fylvo)
-- AI magic with help from [ChatGPT](https://chat.openai.com)
-
----
+- ChatGPT helped shape things
