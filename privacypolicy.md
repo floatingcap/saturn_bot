@@ -1,7 +1,7 @@
 
 # 🔒 fybot Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** July 9, 2025
 
 We respect your privacy. Here's what fybot does — and doesn’t do:
 
