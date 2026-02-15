@@ -1,9 +1,9 @@
 
-# 🔒 fybot Privacy Policy
+# 🔒 Saturn Privacy Policy
 
-**Effective Date:** July 9, 2025
+**Effective Date:** February 15, 2026
 
-We respect your privacy. Here's what fybot does — and doesn’t do:
+We respect your privacy. Here's what Saturn does — and doesn’t do:
 
 ## 1. What We Collect
 - **User IDs** – only when needed (cooldowns, configs, etc).
@@ -20,10 +20,5 @@ We respect your privacy. Here's what fybot does — and doesn’t do:
 - Want your data gone? Ask the devs or your server admin.
 
 ## 4. External Services
-fybot uses some external APIs to generate stuff like text/images.  
-These services may process your input per their own privacy policies:
-
-- OpenAI: https://openai.com/privacy  
-- Google (Gemini): https://policies.google.com/privacy  
-- Hugging Face: https://huggingface.co/privacy  
-- StabilityAI: https://stability.ai/privacy-policy
+Saturn uses some external APIs to generate stuff like text/images.  
+These services may process your input per their own privacy policies.
