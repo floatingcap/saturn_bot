@@ -3,6 +3,11 @@ A Discord AI chatbot powered by Groq's Llama, with image generation by AI Horde.
 
 invite saturn (probably offline): https://discord.com/oauth2/authorize?client_id=1469618099824361676&permissions=274878024768&integration_type=0&scope=bot+applications.commands
 
+for bored devs:
+how does the bot work?
+1. .env
+2. main.py
+3. ???
 
 Let's discuss the problems:
 😅 **Bot is offline most of the time.**
