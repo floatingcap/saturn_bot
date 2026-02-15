@@ -59,7 +59,7 @@ Report anything strange in the [Issues Tab](https://github.com/neptune/saturn/is
 ---
 
 ## ✨ Features
-- 💬 Context-aware conversations with memory
+- 💬 Context-aware conversations with memory (not really with memory)
 - 🎨 AI image generation (AI Horde)
 - 😂 Funny number detection (21, 69, 420, 67)
 - 🛡️ Spam protection
