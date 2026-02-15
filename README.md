@@ -1,6 +1,11 @@
 # 🪐 Saturn
 A Discord AI chatbot powered by Groq's Llama, with image generation by AI Horde.
 
+invite saturn (probably offline): https://discord.com/oauth2/authorize?client_id=1469618099824361676&permissions=274878024768&integration_type=0&scope=bot+applications.commands
+
+
+Let's discuss the problems:
+😅 **Bot is offline most of the time.**
 ⚠️ **Alpha stage** – bugs may occur, this is also an experiment for a discord bot only made by ai
 🔒 [Privacy Policy](./privacypolicy.md) • [Terms of Service](./Terms.md)  
 💬 [Open an Issue](https://github.com/floatingcap/saturn_bot/issues)
