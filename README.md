@@ -18,7 +18,7 @@ Let's discuss the problems:
 ---
 
 ## 📝 About
-- Built by **Neptune (floatingcap)** with help from Claude  
+- ~~Built by **Neptune (floatingcap)**~~ ~~with help from~~ Built by: [ChatGPT](chatgpt.com), [Claude](claude.ai)
 - Text generation powered by **Llama 3.3 70B** via **Groq**  
 - Image generation via **Stable Diffusion** from **AI Horde** (community-powered)  
 - **Closed source**
