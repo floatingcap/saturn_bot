@@ -7,7 +7,8 @@ for bored devs:
 how does the bot work?
 1. .env
 2. main.py
-3. ???
+3. requirements.txt
+4. ???
 
 Let's discuss the problems:
 😅 **Bot is offline most of the time.**
