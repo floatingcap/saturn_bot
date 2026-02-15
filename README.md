@@ -1,43 +1,35 @@
-# 🤖 fybot
+# 🪐 Saturn
+A Discord AI chatbot powered by Groq's Llama, with image generation by AI Horde.
 
-A Discord AI chatbot powered by Google's Gemini and OpenAI's GPT, with image generation by StabilityAI.
-
-⚠️ **Alpha stage** – bugs may occur  
+⚠️ **Alpha stage** – bugs may occur, this is also an experiment for a discord bot only made by ai
 🔒 [Privacy Policy](./privacypolicy.md) • [Terms of Service](./Terms.md)  
-📡 [Status Page](https://stats.uptimerobot.com/k5PHbjW68O)  
-💬 [Open an Issue](https://github.com/fylvo/fybot/issues)
+💬 [Open an Issue](https://github.com/floatingcap/saturn_bot/issues)
 
 ---
 
 ## 📝 About
-
-- Built by **fylvo** with help from ChatGPT  
-- Text generation powered by **Gemini 1.5 Flash** (Google)  
-  with fallback to **GPT-3.5 Turbo** (OpenAI)  
-- Image generation via **Stable Diffusion XL Base 1.0**  
-  from **StabilityAI**, using Hugging Face’s API  
-- **Closed source** (for now)
+- Built by **Neptune (floatingcap)** with help from Claude  
+- Text generation powered by **Llama 3.3 70B** via **Groq**  
+- Image generation via **Stable Diffusion** from **AI Horde** (community-powered)  
+- **Closed source**
 
 ---
 
 ## 🚧 This Repo
-
 This repo is for:
 - Reporting bugs
 - Suggesting features
-- Status tracking (see [Status Page](https://stats.uptimerobot.com/k5PHbjW68O))
+- Status tracking
 
-> Bot source code is private. This isn’t the mainframe. 😉
+> Bot source code is private. This isn't the mainframe. 😉
 
 ---
 
 ## 📢 Disclaimer
-
-fybot is **not affiliated** with:
-- Google
-- OpenAI
-- StabilityAI
-- Hugging Face
+Saturn is **not affiliated** with:
+- Groq
+- Meta (Llama)
+- AI Horde / Stable Horde
 - Discord
 
 We just use their public APIs & models.
@@ -45,17 +37,30 @@ We just use their public APIs & models.
 ---
 
 ## 🧪 Alpha Notice
-
 This bot is still in early development. Expect:
 - Bugs
 - Broken commands
 - Weird AI replies
+- Render being render
 
-Report anything strange in the [Issues Tab](https://github.com/fylvo/fybot/issues).
+Report anything strange in the [Issues Tab](https://github.com/neptune/saturn/issues).
 
 ---
 
 ## 🙌 Credits
+~~- Developed by [Neptune (floatingcap)](https://github.com/floatingcap)~~ Developed as an experiment by 2 AI Models.
+~~- Help from~~ Developed by: [ChatGPT](chatgpt.com), [Claude](claude.ai)
 
-- Developed by [fylvo](https://github.com/fylvo)
-- ChatGPT helped shape things
+---
+
+## ✨ Features
+- 💬 Context-aware conversations with memory
+- 🎨 AI image generation (AI Horde)
+- 😂 Funny number detection (21, 69, 420, 67)
+- 🛡️ Spam protection
+- 💙 Supportive mode for serious topics
+- 🪐 Saturn ASCII art via /fetch
+
+10/10 would experiment again
+
+powered by saturn 🍵
