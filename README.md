@@ -19,7 +19,7 @@ Let's discuss the problems:
 ---
 
 ## 📝 About
-- ~~Built by **Neptune (floatingcap)**~~ ~~with help from~~ Built by: [ChatGPT](chatgpt.com), [Claude](claude.ai)
+- ~~Built by **Neptune (floatingcap)**~~ ~~with help from~~ Built by: [Claude](claude.ai)
 - Text generation powered by **Llama 3.3 70B** via **Groq**  
 - Image generation via **Stable Diffusion** from **AI Horde** (community-powered)  
 - **Closed source**
@@ -60,7 +60,7 @@ Report anything strange in the [Issues Tab](https://github.com/neptune/saturn/is
 
 ## 🙌 Credits
 ~~- Developed by [Neptune (floatingcap)](https://github.com/floatingcap)~~ Developed as an experiment by 2 AI Models.
-~~- Help from~~ Developed by: [ChatGPT](chatgpt.com), [Claude](claude.ai)
+~~- Help from~~ Developed by: [Claude](claude.ai)
 
 ---
 
